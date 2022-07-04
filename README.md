@@ -6,7 +6,9 @@
 
 ###### Visualização do resultado:
 
-![preview](https://user-images.githubusercontent.com/106842147/177193796-291fbad3-51af-4f12-aa76-4443ef791bbd.png)
+<p aling="center"> 
+<img src="https://user-images.githubusercontent.com/106842147/177193796-291fbad3-51af-4f12-aa76-4443ef791bbd.png" width=700px/> 
+</p>
 
 
 
